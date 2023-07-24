@@ -96,7 +96,7 @@ const experiences = [
     company_name: "Opennetworks",
     icon: opennetworks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2020 - Now",
     points: [
       "Developing and maintaining scripts and other related technologies.",
       "Collaborating with cross-functional teams including.",
