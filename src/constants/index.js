@@ -12,6 +12,7 @@ import {
   git,
   docker,
   opennetworks,
+  wika,
   website,
   basic_apps,
   threejs,
@@ -91,6 +92,14 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "General Factory Assitant",
+    company_name: "WIKA Instruments (Pty) Ltd",
+    icon: wika,
+    iconBg: "#383E56",
+    date: "December 2016 - August 2019",
+    points: ["Assembling of pressure gauges","Tungsten Inert gas welding","Assembling of resistance temperature detector","General factory administration","Calibration of mechanical pressure gauges"]
+  },
   {
     title: "Technical Account Manager",
     company_name: "Opennetworks",
