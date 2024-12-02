@@ -15,6 +15,7 @@ import {
   wika,
   website,
   basic_apps,
+  tic_tac_toe,
   threejs,
 } from "../assets";
 
@@ -184,6 +185,23 @@ const projects = [
     ],
     image: basic_apps,
     source_code_link: "https://github.com/KWeid40/Basic_Apps/tree/main",
+  },
+    {
+    name: "Super Tic Tac Toe",
+    description:
+      "In Progress: This is a more advanced version of the standard Tic Tac Toe game that everyone loves.",
+    tags: [
+      {
+        name: "NodeJS, JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "HTML, CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tic_tac_toe,
+    source_code_link: "https://github.com/KWeid40/super_tictactoe",
   },
 ];
 
