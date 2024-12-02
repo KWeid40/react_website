@@ -22,12 +22,16 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import opennetworks from "./company/opennetworks.png";
+import wika from "./company/wika.svg";
 
 import website from "./website.png";
+import tic_tac_toe from "./tic_tac_toe.png";
 import basic_apps from "./basic_apps.png";
 
 export {
   logo,
+  wika,
+  tic_tac_toe,
   backend,
   creator,
   mobile,
